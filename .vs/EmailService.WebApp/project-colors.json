@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af0e653e-ffb3-4d91-a99a-b2458aeb0ab4": {
+      "ProjectGuid": "af0e653e-ffb3-4d91-a99a-b2458aeb0ab4",
+      "DisplayName": "EmailService.WebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
